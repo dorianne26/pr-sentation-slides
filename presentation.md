@@ -23,6 +23,8 @@ paginate: true
 - "La mémoire est l’avenir du passé."
 — Paul Valéry
 
+<div style="text-align: right; font-style: italic;">— Confucius</div>
+
 ---
 
 ## 🎯 Objectif de la présentation
