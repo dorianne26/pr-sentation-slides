@@ -12,6 +12,19 @@ paginate: true
 
 ---
 
+<!--début slide-->
+<style> section {backgroud-color: #6c5ce7;
+                 color: white; 
+                }
+</style>
+
+## ⏳ Citation à méditer
+
+- "La mémoire est l’avenir du passé."
+— Paul Valéry
+
+---
+
 ## 🎯 Objectif de la présentation
 
 - Comprendre comment fonctionne la mémoire
