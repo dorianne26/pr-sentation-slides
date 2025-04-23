@@ -1,6 +1,5 @@
 # pr-sentation-slides
 Présentation en Markdown 
-# Présentation en Markdown
 
 Ce dépôt contient une présentation réalisée avec Markdown, dans le cadre du cours F2HN001.
 
@@ -8,6 +7,7 @@ Ce dépôt contient une présentation réalisée avec Markdown, dans le cadre du
 
 - `presentation.md` : le fichier de slides
 - `image.png` : image utilisée dans les slides
+- thème: league
 
 ## Déploiement
 
