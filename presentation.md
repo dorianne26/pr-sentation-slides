@@ -2,7 +2,7 @@
 marp: true
 title: Ma Présentation
 description: Un projet en Markdown pour F2HN001
-theme: default
+theme: league
 paginate: true
 ---
 
